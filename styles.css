@@ -1,0 +1,28 @@
+* {
+    border: 4px solid white;
+}
+
+/* delete border above to remove outside, outline */
+
+body {
+    margin: 40px;
+    padding: 60px;
+    border: 4px;
+    background-color: black;
+    
+}
+
+h1 {
+    margin: 40px;
+    padding: 60px;
+    border: 4px solid white;
+    box-sizing: border-box;
+    color: white;
+}
+
+p {
+    margin: 40px;
+    padding: 60px;
+    border: 4px solid white;
+    color: white;
+}
